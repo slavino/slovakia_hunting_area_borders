@@ -1,0 +1,1 @@
+# slovakia_hunting_area_borders
