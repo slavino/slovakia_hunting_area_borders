@@ -6,6 +6,8 @@ As source used open data from Slovak government
 
 and source of data is [© NLC Zvolen](https://web.nlcsk.org/).
 
+Ideal for example in [Leaflet](https://leafletjs.com/) or [OsmAnd](https://osmand.net/) embedded in Android.
+
 ## Parse from CLI
 
 ```
