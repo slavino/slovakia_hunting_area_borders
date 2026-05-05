@@ -11,7 +11,7 @@ Ideal for example in [Leaflet](https://leafletjs.com/) or [OsmAnd](https://osman
 ## Parse from CLI
 
 ```
-!#/bin/bash
+#!/bin/bash
 mkdir SR_PR_2025
 php -d memory_limit=-1 parse.php
 ```
